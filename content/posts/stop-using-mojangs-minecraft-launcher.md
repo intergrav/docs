@@ -1,11 +1,9 @@
 +++
 title = "Stop using Mojang's Minecraft launcher"
 date = "2023-03-15T00:45:19-04:00"
-author = ""
-authorTwitter = "" #do not include @
+author = "intergrav"
 cover = "/img/stop-using-mojangs-minecraft-launcher.png"
 tags = ["minecraft", "prism"]
-keywords = ["", ""]
 description = "Mojang's Minecraft launcher is alright, but there are better third-party alternatives that offer many more features for convenience, such as mod and modpack support."
 showFullContent = false
 readingTime = false
