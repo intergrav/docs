@@ -19,7 +19,7 @@ paginate = 4
   [languages.en]
     languageName = "English"
     title = "Devin's Website"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = "Welcome to my site!"
     owner = "intergrav"
     keywords = ["Devin", "intergrav", "UltraStorm"]
     copyright = "© intergrav 2023"
