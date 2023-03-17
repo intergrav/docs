@@ -1,0 +1,38 @@
+baseURL = 'https://intergrav.github.io'
+languageCode = 'en-us'
+title = 'Intergrav Blog'
+theme = "terminal"
+paginate = 4
+
+[params]
+    themeColor = "orange"
+    centerTheme = true
+
+[params.twitter]
+  # set Twitter handles for Twitter cards
+  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+  # do not include @
+  creator = ""
+  site = ""
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Devin's Website"
+    subtitle = "A simple, retro theme for Hugo"
+    owner = "intergrav"
+    keywords = ["Devin", "intergrav", "UltraStorm"]
+    copyright = "© intergrav 2023"
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+    minuteReadingTime = "min read"
+    words = "words"
+
+    [languages.en.params.logo]
+      logoText = "Devin's Website"
+      logoHomeLink = "/"
