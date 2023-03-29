@@ -36,3 +36,13 @@ paginate = 4
     [languages.en.params.logo]
       logoText = "Devin's Website"
       logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "home"
+        name = "Home"
+        url = "/"
+      [[languages.en.menu.main]]
+        identifier = "projects"
+        name = "Projects"
+        url = "/projects"
