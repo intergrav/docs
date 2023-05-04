@@ -22,6 +22,14 @@ If you would like to see more about it, see the Modrinth page for [Additive](htt
 
 Like Adrenaline, you can download the pack [using a third party launcher](https://docs.modrinth.com/docs/modpacks/playing_modpacks/) such as Prism Launcher.
 
+## [DeckCraft](https://modrinth.com/modpack/deckcraft) - seamless and fast Steam Deck experience
+
+DeckCraft is a newer project of mine that aims to provide a seamless and easy out-of-the-box experience for Minecraft on the Steam Deck. It's built on a tweaked version of Additive for great performance and OptiFine features, and has a few extra mods added alongside Additive.
+
+If you would like to see more about it, see the Modrinth page for [DeckCraft](https://modrinth.com/modpack/deckcraft). You can also see the source on [GitHub](https://github.com/intergrav/DeckCraft).
+
+You can install it on your Steam Deck according to [the instructions](https://github.com/intergrav/DeckCraft/wiki/Installation) on the wiki.
+
 ## [Devin's Badges](https://intergrav.github.io/devins-badges-docs/) - consistent badges for many services
 
 While not currently being maintained as much as it used to be, Devin's Badges is my large collection of neatly-designed badges for various services, such as GitHub or Discord. [Here's a preview](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/cozy/social/discord-singular_64h.png) of one of the badges.
