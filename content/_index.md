@@ -6,4 +6,4 @@ Hi! My name is Devin. I do music, visual design, and programming sometimes. I am
 
 This website contains my blog posts. If you would like to contribute to them or if you find issues, feel free to see the [repository](https://github.com/intergrav/intergrav.github.io).
 
-<a rel="me" href="https://floss.social/@intergrav"></a>
+<a rel="me" href="https://floss.social/@intergrav">Temporary Mastodon link to verify</a>
