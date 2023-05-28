@@ -43,6 +43,6 @@ paginate = 4
         name = "Home"
         url = "/"
       [[languages.en.menu.main]]
-        identifier = "projects"
-        name = "Projects"
-        url = "/projects"
+        identifier = "portfolio"
+        name = "Portfolio"
+        url = "/portfolio"

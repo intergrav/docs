@@ -1,5 +1,5 @@
 +++
-title = "Projects"
+title = "Portfolio"
 author = "intergrav"
 description = "I work on various different projects. Here are my main ones I am working on right now."
 +++
